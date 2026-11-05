@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.1"
+  version: "1.0.2"
 
 package:
   name: pystac-ext-view
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-view/pystac_ext_view-${{ version }}.tar.gz
-  sha256: 11b5ea7ebcd717a86ef256abe4270ab6c1ab701683d3b4fc0d104ea194d759e2
+  sha256: 4d48eda56751dcf4e9dfa990ecfdb724ea9cfe518a0082cd1a6a15be0219be0d
 
 build:
   number: 0
